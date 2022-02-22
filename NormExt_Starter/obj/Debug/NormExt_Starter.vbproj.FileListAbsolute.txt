@@ -1,0 +1,9 @@
+D:\Projects\DesktopApp\NormExtStarter\NormExtStarter\obj\Debug\NormExt_Starter.vbproj.GenerateResource.Cache
+D:\Projects\DesktopApp\NormExtStarter\NormExtStarter\bin\Debug\NormExt_Starter.exe.config
+D:\Projects\DesktopApp\NormExtStarter\NormExtStarter\bin\Debug\NormExt_Starter.exe
+D:\Projects\DesktopApp\NormExtStarter\NormExtStarter\bin\Debug\NormExt_Starter.pdb
+D:\Projects\DesktopApp\NormExtStarter\NormExtStarter\bin\Debug\NormExt_Starter.xml
+D:\Projects\DesktopApp\NormExtStarter\NormExtStarter\obj\Debug\NormExt_Starter.Resources.resources
+D:\Projects\DesktopApp\NormExtStarter\NormExtStarter\obj\Debug\NormExt_Starter.exe
+D:\Projects\DesktopApp\NormExtStarter\NormExtStarter\obj\Debug\NormExt_Starter.xml
+D:\Projects\DesktopApp\NormExtStarter\NormExtStarter\obj\Debug\NormExt_Starter.pdb
